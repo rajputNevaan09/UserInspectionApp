@@ -19,6 +19,7 @@ UserInspectionApp is an iOS application where user can  Singup and after that he
 
 1. Clone the repository to your local machine:
 
-```bash
-git clone https://github.com/yourusername/UserInspectionApp.git
+HTTP - https://github.com/rajputNevaan09/UserInspectionApp.git
+SSH - git@github.com:rajputNevaan09/UserInspectionApp.git
+Github CLI - gh repo clone rajputNevaan09/UserInspectionApp
 
